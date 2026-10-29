@@ -47,3 +47,29 @@ We are on [Discord](https://the-algorithms.com/discord)! Community channels are 
 ## 📜 List of Algorithms
 
 See our [directory](DIRECTORY.md) for easier navigation and a better overview of the project.
+# Git and GitHub Collaboration Practical
+
+## Aim
+To demonstrate collaborative software development using Git and GitHub through branching, commits, pushing changes, and pull requests.
+
+## Objectives
+1. Understand Git version control.
+2. Create and manage a feature branch.
+3. Modify project documentation.
+4. Track changes using Git.
+5. Push commits to a GitHub repository.
+6. Create and review a pull request.
+7. Merge approved changes into the target branch.
+
+## Procedure
+1. Open the project repository on the local computer.
+2. Create a feature branch named `CO3-feature`.
+3. Modify the README documentation.
+4. Stage the modified file using Git.
+5. Commit the changes with a meaningful message.
+6. Push the feature branch to GitHub.
+7. Create a pull request and review the changes.
+8. Merge the pull request after checking the changes.
+
+## Result
+The Git and GitHub collaboration workflow is demonstrated through feature branching, change tracking, committing, pushing, pull-request creation, review, and merging.
